@@ -51,6 +51,6 @@ Utilized Remote Desktop to simulate virtual environments, connecting to a Window
 <img src="https://i.imgur.com/l2mY0NT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"Deployed Active Directory on a Windows Server using PowerShell for streamlined automation. Installed the 'AD DS' (Active Directory Domain Services) role with `Install-WindowsFeature` cmdlet, and used `Install-ADDSForest` to promote the server to a domain controller. This approach simplified the setup process, allowing for quick, efficient domain management and configuration through scripting.
+Deployed Active Directory on a Windows Server using PowerShell for streamlined automation. Installed the 'AD DS' (Active Directory Domain Services) role with `Install-WindowsFeature` cmdlet, and used `Install-ADDSForest` to promote the server to a domain controller. This approach simplified the setup process, allowing for quick, efficient domain management and configuration through scripting.
 </p>
 <br />
